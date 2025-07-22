@@ -7,10 +7,11 @@
 ## 🟢 المهام:
 
 ✅ **Assignment 1**  
-[فتح التكليف الأول مباشرة](https://Abdlrhman777.github.io/web-assignments/Assignment%201/)
+[فتح التكليف الأول مباشرة](https://abdlrhman77.github.io/web-assignments/Assignment%201/))
 
 ✅ **Assignment 2**  
-سيتم إضافة الرابط هنا بعد رفع المهمة.
+[فتح التكليف الثاني مباشرة]
+(https://abdlrhman77.github.io/web-assignments/Assignment%202/))
 
 ✅ **Assignment 3**  
 سيتم إضافة الرابط هنا بعد رفع المهمة.
