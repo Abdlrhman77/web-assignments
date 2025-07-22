@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,5 +40,122 @@
   <p>We <s>love coding</s></p><!-- s => Strikethrough Text  نص مخطوط-->
   <p>We <ruby>love<rt>coding</rt></ruby></p><!-- ruby => Ruby Annotation  تعليق روبي -->
 
+
+<!-- الروابط والانكات -->
+ <a href="http://google.com" target="_blank" title="Go To Google">Google</a>
+
+ <!-- قائمة غير مرتبة  -->
+
+ <ul>
+  <li>html</li>
+  <li>css
+    <ul>
+      <li>bootstrap</li>
+    </ul>
+  </li>
+ </ul>
+
+ <!-- قائمة مرتبة ترقيم من الاصغر للاكبر -->
+  <ol>
+    <li>html</li>
+    <li>html</li>
+  </ol>
+
+   <!-- dl => Description List / dt => Term / dd => Description Term --> 
+
+   <dl>
+    <dt>HTML</dt>
+    <dd>Hypertext Markup Language</dd>
+    <dt>CSS</dt>
+    <dd>Cascading Style Sheets</dd>
+    <dt>JavaScript</dt>
+    <dd>Programming Language for Web Development</dd>
+    </dl>
+
+    <!-- بد الترتيب من قيمة محدده -->
+
+     <!-- start => Start From Position --> 
+     <ol start="5"> 
+      <li>Name</li> 
+      <li>Email</li> 
+      <li>Country</li> 
+  </ol>
+
+      <!-- value => Cunt Will Start From This Value. --> 
+    <ol> 
+      <li value="30">Name</li> 
+      <li>Email</li> 
+      <li>Country</li> 
+  </ol>
+
+  <!-- reversed => Reverse The Ordering / type => Type Of Ordering--> 
+  <ol reversed type="A"> 
+    <li>Name</li> 
+    <li>Email</li> 
+    <li>Country</li> 
+</ol>
+
+
+<!-- الجداول  -->
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse; /* دمج الحدود لجعلها أنظف */
+  }
+
+  th, td {
+    border: 1px solid #333; /* لون الحدود */
+    padding: 8px; /* مسافة داخل الخلية */
+    text-align: center; /* محاذاة النص */
+  }
+
+  th {
+    background-color: #f2f2f2; /* لون خلفية رأس الجدول */
+  }
+
+  tr:nth-child(even) {
+    background-color: #f9f9f9; /* تلوين الصفوف الفردية لتسهيل القراءة */
+  }
+  
+</style>
+<table class="table">
+  <caption>table html</caption>
+  <thead>
+    <tr>
+      <th>html</th>
+      <th>css</th>
+      <th>js</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ahmed</td>
+      <td>ahmed</td>
+      <td>ahmed</td>
+    </tr>
+    <tr>
+      <td>ahmed</td>
+      <td>ahmed</td>
+      <td>ahmed</td>
+    </tr>
+    <tr>
+      <td>ahmed</td>
+      <td>ahmed</td>
+      <td>ahmed</td>
+    </tr>
+  </tbody>
+  <tfoot style="width: 100%;"><!-- Table Foot ءزجلا يلفسلا لودجلل --> 
+    <tr> 
+        <!-- colspan => merge table cells  جمد ايلاخ لودجلا --> 
+        <td  colspan="2">Total</td>  <td>100</td> 
+    </tr> 
+</tfoot>
+</table>
+
+
 </body>
-  </html>
+
+
+
+
+</html>
