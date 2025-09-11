@@ -14,7 +14,9 @@
 (https://abdlrhman77.github.io/web-assignments/Assignment%202/))
 
 ✅ **Assignment 3**  
-سيتم إضافة الرابط هنا بعد رفع المهمة.
+[فتح التكليف الثالث مباشرة]
+(https://abdlrhman77.github.io/web-assignments/Assignment%203/))
+
 
 ---
 
