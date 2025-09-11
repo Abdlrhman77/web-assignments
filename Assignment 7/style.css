@@ -1,1 +1,24 @@
 
+li {
+    color: black;
+    margin: 20px 0;
+}
+
+li:first-child {
+    font-weight: bold;
+}
+
+li:hover {
+    color: blue;
+}
+
+.box {
+    width: 250px;
+    padding: 15px;
+    border: 1px solid blue;
+}
+
+.box::before {
+    content: "⭐";
+    margin-left: 10px;
+} 
