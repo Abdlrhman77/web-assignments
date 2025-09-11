@@ -17,6 +17,28 @@
 [فتح التكليف الثالث مباشرة]
 (https://abdlrhman77.github.io/web-assignments/Assignment%203/))
 
+✅ **Assignment 4**  
+[فتح التكليف الرابع مباشرة]
+(https://abdlrhman77.github.io/web-assignments/Assignment%204/))
+
+✅ **Assignment 5**  
+[فتح التكليف الخامس مباشرة]
+(https://abdlrhman77.github.io/web-assignments/Assignment%205/))
+
+✅ **Assignment 6**  
+[فتح التكليف السادس مباشرة]
+(https://abdlrhman77.github.io/web-assignments/Assignment%206/))
+
+✅ **Assignment 7**  
+[فتح التكليف السابع مباشرة]
+(https://abdlrhman77.github.io/web-assignments/Assignment%207/))
+
+✅ **Assignment 8**  
+[فتح التكليف الثامن مباشرة]
+(https://abdlrhman77.github.io/web-assignments/Assignment%208/))
+
+
+
 
 ---
 
